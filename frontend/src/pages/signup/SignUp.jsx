@@ -28,7 +28,7 @@ const SignUp = () => {
       <div className="h-full w-full p-6 rounded-lg bg-gray-600 shadow-md bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-30">
         <h1 className="text-3xl font-semibold text-center text-gray-300">
           Sign Up{" "}
-          <span className="text-blue-200 bg-blend-lighten"> ChatApp</span>
+          <span className="text-blue-200 bg-blend-lighten"> Chatify</span>
         </h1>
 
         <form onSubmit={handleSubmit}>
@@ -124,7 +124,7 @@ export default SignUp;
 //         <div className='flex flex-col items-center justify-center min-w-96 mx-auto'>
 // 			<div className='h-full w-full p-6 rounded-lg bg-gray-600 shadow-md bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-30'>
 // 				<h1 className='text-3xl font-semibold text-center text-gray-300'>
-// 					Sign Up <span className='text-blue-200 bg-blend-lighten'> ChatApp</span>
+// 					Sign Up <span className='text-blue-200 bg-blend-lighten'> Chatify</span>
 // 				</h1>
 
 // 				<form>
